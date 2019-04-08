@@ -1,6 +1,12 @@
 
 # 零、数据科学实战
 
+> 原文：[Data Science in Practice](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/00-Introduction.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 欢迎来到阅读数据科学实战课程的实践材料。
 
 本笔记本将指导你获取使用这些教程和作业所需的工具。

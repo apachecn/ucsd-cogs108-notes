@@ -1,6 +1,12 @@
 
 # 六、数据整理
 
+> 原文：[Data Wrangling](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/06-DataWrangling.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 “数据整理”通常是指将原始数据，转换为可用于你感兴趣的分析的可用形式，包括加载，聚合和格式化。
 
 注意：在整个笔记本中，我们将使用 '!' 运行 shell 命令`cat`，来打印出示例数据文件的内容。

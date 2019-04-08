@@ -1,6 +1,12 @@
 
 # 十四、线性模型
 
+> 原文：[Linear Models](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/14-LinearModels.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 线性（回归）建模是一种方法，将输出值预测为输入值的加权线性组合。
 
 ### 线性模型 - 概述

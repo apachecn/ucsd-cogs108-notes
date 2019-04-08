@@ -1,6 +1,12 @@
 
 # 十、分布
 
+> 原文：[Distributions](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/10-Distributions.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 概率分布反映了函数/数据源的可能结果的发生概率。
 
 这是[维基百科](https://en.wikipedia.org/wiki/Probability_distribution)上的概率分布。如果你想要更全面地了解概率/分布，请查看此[文章](https://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/)。

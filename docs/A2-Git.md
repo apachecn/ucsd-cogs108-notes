@@ -1,6 +1,12 @@
 
 # 附录二、git/Github 版本控制工具
 
+> 原文：[Version Control with git/Github](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/A2-Git.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 版本控制反映了一组与管理文件相关的实践，特别是管理不同版本的文件。
 
 你可以在[维基百科](https://en.wikipedia.org/wiki/Version_control)或[ git 文档](https://git-scm.com/book/en/v2/)上阅读版本控制的更多信息。

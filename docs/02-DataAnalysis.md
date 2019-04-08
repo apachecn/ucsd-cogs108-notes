@@ -1,6 +1,12 @@
 
 # 二、数据分析
 
+> 原文：[Data Analysis](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/02-DataAnalysis.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 这本笔记本讲解了一些，我们可能想要使用数据科学方法做的事情的最小例子。
 
 特别是，为了以下目的，它简要介绍了数据分析：

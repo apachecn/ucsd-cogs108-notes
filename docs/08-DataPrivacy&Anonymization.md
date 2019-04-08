@@ -1,6 +1,12 @@
 
 # 八、数据隐私和匿名化
 
+> 原文：[Data Privacy & Anonymization](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/08-DataPrivacy%26Anonymization.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 许多数据，可能是数据科学中通常使用的绝大多数数据，直接或间接地与人有关。
 
 个人拥有某些隐私权，关于谁可以知道或分享有关特定身份个人的信息。 对于某些类别的敏感信息（例如，与健康相关的信息具有特殊保护）尤其如此，但也适用于所有其他数据。

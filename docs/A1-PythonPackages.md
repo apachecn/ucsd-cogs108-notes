@@ -1,6 +1,11 @@
 
 # 附录一、有用的 Python 数据科学包
 
+> 原文：[Useful Python Packages for Data Science](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/A1-PythonPackages.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 以下是 Python 中可能对数据科学有用的包一般概述。
 

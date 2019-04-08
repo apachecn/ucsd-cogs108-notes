@@ -1,6 +1,11 @@
 
 # 十五、聚类
 
+> 原文：[Clustering](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/15-Clustering.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 聚类是尝试在数据中查找结构（簇）的过程。
 

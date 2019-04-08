@@ -1,6 +1,12 @@
 
 # 十八、自然语言处理
 
+> 原文：[Natural Language Processing](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/18-NaturalLanguageProcessing.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 自然语言处理（NLP）是使用计算机分析文本数据的方法。
 
 这是[维基百科](https://en.wikipedia.org/wiki/Natural-language_processing)上的自然语言处理。

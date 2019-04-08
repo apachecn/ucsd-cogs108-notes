@@ -1,6 +1,11 @@
 
 # 十六、降维
 
+> 原文：[Dimensionality Reduction](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/16-DimensionalityReduction.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 降维是将数据集转换为较低维空间的过程。
 

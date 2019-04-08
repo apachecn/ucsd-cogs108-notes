@@ -1,6 +1,12 @@
 
 # 四、Python 中的数据科学
 
+> 原文：[Data Science in Python](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/04-DataSciencePython.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Python 有大量可用于数据科学的工具。
 
 Python 中的数据科学核心围绕着一些核心模块，通常包括【scipy，numpy，pandas，matplotlib 和 scikit-learn】。

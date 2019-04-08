@@ -1,6 +1,11 @@
 
 # 十一、检验分布
 
+> 原文：[Testing Distributions](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/11-TestingDistributions.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 有时，正式检验你观察到的某些数据是否遵循特定分布，可能是有用的（或必要的）。
 

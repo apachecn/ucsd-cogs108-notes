@@ -1,6 +1,12 @@
 
 # 十三、普通最小二乘
 
+> 原文：[Ordinary Least Squares](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/13-OrdinaryLeastSquares.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 普通最小二乘法（OLS）意味着最小化模型做出的预测与观测数据之间的平方和的误差。
 
 在[维基百科](https://en.wikipedia.org/wiki/Ordinary_least_squares)上查找有关 OLS 的更多信息，请查看这个很酷的[互动工具](http://setosa.io/ev/ordinary-least-squares-regression/)和/或查看在 Python 中执行 OLS 的[教程](https://www.datarobot.com/blog/ordinary-least-squares-in-python/)。

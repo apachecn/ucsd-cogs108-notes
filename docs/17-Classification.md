@@ -1,6 +1,12 @@
 
 # 十七、分类
 
+> 原文：[Classification](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/17-Classification.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 分类是对数据进行分类的过程 - 将数据点分配给预定义的组（或簇）。
 
 来自维基百科的[分类](https://en.wikipedia.org/wiki/Statistical_classification)文章。

@@ -1,6 +1,12 @@
 
 # 一、Jupyter 笔记本
 
+> 原文：[Jupyter Notebooks](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/01-JupyterNotebooks.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 这是 Jupyter 笔记本的快速介绍。
 
 

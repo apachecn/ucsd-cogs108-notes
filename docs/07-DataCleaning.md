@@ -1,6 +1,12 @@
 
 # 七、数据清理
 
+> 原文：[Data Cleaning](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/07-DataCleaning.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 “数据清理”是查找并删除或修复“错误数据”的过程，其中“错误数据”通常指的是损坏和/或不准确的数据点。
 
 ```python

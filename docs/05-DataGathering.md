@@ -1,6 +1,11 @@
 
 # 五、数据收集
 
+> 原文：[Data Gathering](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/05-DataGathering.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 数据收集只是将数据收集在一起的过程。
 

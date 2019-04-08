@@ -1,5 +1,11 @@
 # 三、Python
 
+> 原文：[Python](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/03-Python.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![title](img/python.png)
 
 Python 是[开源](https://en.wikipedia.org/wiki/Open-source_model)，[高级](https://en.wikipedia.org/wiki/High-level_programming_language)，[通用](https://en.wikipedia.org/wiki/General-purpose_programming_language)，[解释性](https://en.wikipedia.org/wiki/Interpreted_language)的[编程语言](https://en.wikipedia.org/wiki/Programming_language)，是数据科学应用程序中最受欢迎的应用之一。

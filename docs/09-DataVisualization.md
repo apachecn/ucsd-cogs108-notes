@@ -1,6 +1,12 @@
 
 # 九、使用 Python 进行数据可视化
 
+> 原文：[Data Visualization with Python](https://nbviewer.jupyter.org/github/COGS108/Tutorials/blob/master/09-DataVisualization.ipynb)
+> 
+> 译者：[飞龙](https://github.com/wizardforcel)
+> 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 数据可视化可能意味着不同的东西。
 
 在这里，我们将使用 Matplotlib 来处理基本的 2D 绘图，Matplotlib 是一个 Python 绘图库。
